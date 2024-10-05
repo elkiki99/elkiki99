@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A Laravel developer from Uruguay</h3>
 
-- 🔭 I’m currently working on **Laravel ecosystem**
+- 🔭 I’m currently working on **Laravel ecosystem applications**
 
 - 🌱 I’m currently learning **TALL Stack**
 
 - 👨‍💻 All of my projects are available at [https://jobs-polished-meadow-3345.fly.dev/user/elkiki_99](https://jobs-polished-meadow-3345.fly.dev/user/elkiki_99)
 
-- 💬 Ask me about **you know... Laravel**
+- 💬 Ask me about **Laravel, PHP, Javascript**
 
 - 📫 How to reach me **brossani23@gmail.com**
 
