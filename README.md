@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **TALL Stack**
 
-- 👨‍💻 All of my projects are available at [https://jobs-polished-meadow-3345.fly.dev/user/elkiki_99](https://jobs-polished-meadow-3345.fly.dev/user/elkiki_99)
+- 👨‍💻 All of my projects are available at [https://bruno-rossani.fly.dev/portfolio](https://bruno-rossani.fly.dev/portfolio)
 
 - 💬 Ask me about **Laravel, PHP, Javascript**
 
 - 📫 How to reach me **brossani23@gmail.com**
 
-- 📄 Know about my experiences [https://bruno-rossani-en.netlify.app/](https://bruno-rossani-en.netlify.app/)
+- 📄 Know about my experiences [https://bruno-rossani.fly.dev/resume/](https://bruno-rossani.fly.dev/resume)
 
-- ⚡ Fun fact **I studied classical guitar**
+- ⚡ Fun fact **I studied classical guitar before pursuing a Computer Science Degree**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
