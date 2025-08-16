@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
-<h3 align="center">A Laravel developer from Uruguay</h3>
+<h3 align="center">A Software Developer from Uruguay</h3>
 
 - 🔭 I’m currently working on **Laravel ecosystem applications**
 
-- 🌱 I’m currently learning **TALL Stack**
+- 🌱 I’m currently learning **C/C++ && TALL Stack**
 
 - 👨‍💻 All of my projects are available at [https://bruno-rossani.fly.dev/portfolio](https://bruno-rossani.fly.dev/portfolio)
 
-- 💬 Ask me about **Laravel, PHP, Javascript**
+- 💬 Ask me about **C/C++, Laravel, PHP, Javascript**
 
 - 📫 How to reach me **brossani23@gmail.com**
 
