@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **C/C++ && TALL Stack**
 
-- 👨‍💻 All of my projects are available at [https://bruno-rossani.fly.dev/portfolio](https://bruno-rossani.fly.dev/portfolio)
+- 👨‍💻 All of my projects are available at [https://bruno-rossani.laravel.cloud/portfolio](https://bruno-rossani.laravel.cloud/portfolio)
 
 - 💬 Ask me about **C/C++, Laravel, PHP, Javascript**
 
 - 📫 How to reach me **brossani23@gmail.com**
 
-- 📄 Know about my experiences [https://bruno-rossani.fly.dev/resume/](https://bruno-rossani.fly.dev/resume)
+- 📄 Know about my experiences [https://bruno-rossani.laravel.cloud/resume](https://bruno-rossani.laravel.cloud/resume)
 
 - ⚡ Fun fact **I studied classical guitar before pursuing a Computer Science Degree**
 
