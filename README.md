@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bruno</h1>
 <h3 align="center">A Software Developer from Uruguay</h3>
 
-- 🔭 I’m currently working on **Laravel ecosystem applications**
+- 🔭 I’m currently working on **Laravel and C/C++ applications**
 
-- 🌱 I’m currently learning **C/C++ && TALL Stack**
+- 🌱 I’m currently learning **C/C++ && PHP**
 
 - 👨‍💻 All of my projects are available at [https://bruno-rossani.laravel.cloud/portfolio](https://bruno-rossani.laravel.cloud/portfolio)
 
