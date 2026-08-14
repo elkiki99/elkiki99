@@ -1,48 +1,29 @@
-# elkiki99
+# Hey, I'm Bruno 👋
 
-A modern full‑stack starter kit built with Laravel, Vue 3, and Tailwind CSS, crafted by Bruno Rossani.
+Full-stack developer from Montevideo, Uruguay. I build web applications with Laravel and Vue.js, and I'm currently studying Computer Science while working professionally on real-world projects.
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-[![Laravel](https://img.shields.io/badge/Laravel-10.x-F05340?logo=laravel)](https://laravel.com)
-[![Vue.js](https://img.shields.io/badge/Vue-3.x-4FC08D?logo=vue.js)](https://vuejs.org)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC?logo=tailwind-css)](https://tailwindcss.com)
-[![PHP](https://img.shields.io/badge/PHP-8.2-777BB4?logo=php)](https://www.php.net)
-[![Node.js](https://img.shields.io/badge/Node-20.x-339933?logo=node.js)](https://nodejs.org)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?logo=livewire&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpine.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## Features
+## 🚀 Some of my projects
 
-- Laravel backend with API resources and Sanctum authentication
-- Vue 3 composition API with Pinia state management
-- TailwindCSS utility‑first styling and dark mode support
-- Real‑time notifications via Laravel Echo & Pusher
-- Automated testing with PHPUnit and Vitest
-- Docker‑ready development environment
+- **[ats-boost](https://github.com/elkiki99/ats-boost)** — AI-powered CV tailoring tool for job applications
+- **[tortuga](https://github.com/elkiki99/tortuga)** — Second-hand clothing e-commerce platform with MercadoPago
+- **[laraflix](https://github.com/elkiki99/laraflix)** — Netflix-inspired movie portal built with TALL stack + TMDB API
+- **[chat](https://github.com/elkiki99/chat)** — Real-time WhatsApp-inspired chat with Laravel Reverb
+- **[Jobs](https://github.com/elkiki99/Jobs)** — Job board platform for seekers and recruiters
+- **[The-Edifice-Gazette](https://github.com/elkiki99/The-Edifice-Gazette)** — Full-featured blog platform with subscription management
 
-## Installation
+## 📫 Get in touch
 
-```bash
-# Clone the repository
-git clone https://github.com/elkiki99/elkiki99.git
-cd elkiki99
-
-# Install PHP dependencies
-composer install
-
-# Install Node dependencies
-npm install
-
-# Copy env files and generate keys
-cp .env.example .env
-php artisan key:generate
-php artisan storage:link
-
-# Run migrations and seeders
-php artisan migrate --seed
-
-# Build assets
-npm run dev   # or npm run prod for production
-
-# Start the development server
-php artisan serve
-```
+- Portfolio: [cv repo](https://github.com/elkiki99/cv)
+- Email: brossani23@gmail.com
+- Location: Montevideo, Uruguay 🇺🇾
