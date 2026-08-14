@@ -1,6 +1,6 @@
 # Hey, I'm Bruno 👋
 
-Full-stack developer from Montevideo, Uruguay. I build web applications with Laravel and Vue.js, and I'm currently studying Computer Science while working professionally on real-world projects.
+Full-stack developer from Montevideo, Uruguay, currently working professionally in the IT industry. I build web applications with Laravel and Vue.js while studying Computer Science.
 
 ## 🛠️ Tech Stack
 
@@ -16,11 +16,8 @@ Full-stack developer from Montevideo, Uruguay. I build web applications with Lar
 ## 🚀 Some of my projects
 
 - **[ats-boost](https://github.com/elkiki99/ats-boost)** — AI-powered CV tailoring tool for job applications
-- **[tortuga](https://github.com/elkiki99/tortuga)** — Second-hand clothing e-commerce platform with MercadoPago
 - **[laraflix](https://github.com/elkiki99/laraflix)** — Netflix-inspired movie portal built with TALL stack + TMDB API
-- **[chat](https://github.com/elkiki99/chat)** — Real-time WhatsApp-inspired chat with Laravel Reverb
 - **[Jobs](https://github.com/elkiki99/Jobs)** — Job board platform for seekers and recruiters
-- **[The-Edifice-Gazette](https://github.com/elkiki99/The-Edifice-Gazette)** — Full-featured blog platform with subscription management
 
 ## 📫 Get in touch
 
