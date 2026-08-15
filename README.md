@@ -21,6 +21,6 @@ Full-stack developer from Montevideo, Uruguay, currently working professionally 
 
 ## 📫 Get in touch
 
-- Portfolio: [cv repo](https://github.com/elkiki99/cv)
 - Email: brossani23@gmail.com
+- Linkedin: https://www.linkedin.com/in/brunorossani/
 - Location: Montevideo, Uruguay 🇺🇾
